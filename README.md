@@ -75,16 +75,8 @@ A modern web application built with **Laravel 12** and **Livewire** for managing
 * PHP 8.2+
 * Composer
 * Node.js 18+
-* SQLite or MySQL
+* MySQL(Xhamp)
 * Git
-
----
-
-# ⚙️ Installation
-
-Here is the **correct and clean installation section** for your Laravel + Livewire project.
-
-You can replace your current Installation section with this:
 
 ---
 
@@ -131,18 +123,15 @@ php artisan key:generate
 
 ## 5️⃣ Configure Database
 
-### Using SQLite (Default)
+### Using mysql
 
-Create the database file:
+Create the database file
 
-```bash
-touch database/database.sqlite
-```
 
 Make sure your `.env` contains:
 
 ```env
-DB_CONNECTION=sqlite
+DB_CONNECTION=mysql
 ```
 
 Run migrations:
@@ -174,21 +163,7 @@ php artisan migrate
 
 ---
 
-## 6️⃣ Build Frontend Assets
 
-For development:
-
-```bash
-npm run dev
-```
-
-For production:
-
-```bash
-npm run build
-```
-
----
 
 ## 7️⃣ Start the Application
 
@@ -203,7 +178,7 @@ The application will be available at:
 👉 [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 
-
+---
 
 # 👤 Usage
 
@@ -221,16 +196,8 @@ The application will be available at:
 
 ---
 
-# 📁 Project Structure
-
-```
-app/
-database/
-resources/
-routes/
-public/
-```
 
 
-* 🚀 A deployment guide (shared hosting/VPS)
+
+
 

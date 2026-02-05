@@ -9,16 +9,16 @@ A modern web application built with **Laravel 12** and **Livewire** for managing
 ### 🔐 Authentication
 
 ![Login](screenshots/login.PNG)
-![Register](screenshots/register.png)
+![Register](screenshots/register.PNG)
 
 ### 📊 Dashboard
 
-![User Dashboard](screenshots/user-dashboard.png)
+![User Dashboard](screenshots/user-dashboard.PNG)
 
 ### 🛠️ Admin Panel
 
-![Admin Dashboard](screenshots/admin-dashboard.png)
-![User Management](screenshots/user-management.png)
+![Admin Dashboard](screenshots/admin-dashboard.PNG)
+![User Management](screenshots/user-management.PNG)
 
 
 # 🚀 Features

@@ -8,7 +8,7 @@ A modern web application built with **Laravel 12** and **Livewire** for managing
 
 ### 🔐 Authentication
 
-![Login](screenshots/login.png)
+![Login](screenshots/login.PNG)
 ![Register](screenshots/register.png)
 
 ### 📊 Dashboard
